@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+i am studying Computer Science
+freshman at Bilkent University
+Reader, curious
 <!--
 **mehmetbars/mehmetbars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
